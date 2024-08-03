@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://smdzhm.github.io</id>
     <title>MerryzzChannel</title>
-    <updated>2024-08-03T03:00:11.215Z</updated>
+    <updated>2024-08-03T03:05:51.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://smdzhm.github.io"/>
     <link rel="self" href="https://smdzhm.github.io/atom.xml"/>
     <logo>https://smdzhm.github.io/images/avatar.png</logo>
     <icon>https://smdzhm.github.io/favicon.ico</icon>
     <rights>All rights reserved 2024, MerryzzChannel</rights>
+    <entry>
+        <title type="html"><![CDATA[Typedown – 免费轻量级 Markdown 编辑器]]></title>
+        <id>https://smdzhm.github.io/post/typedown-mian-fei-qing-liang-ji-markdown-bian-ji-qi/</id>
+        <link href="https://smdzhm.github.io/post/typedown-mian-fei-qing-liang-ji-markdown-bian-ji-qi/">
+        </link>
+        <updated>2024-08-03T03:04:09.000Z</updated>
+        <content type="html"><![CDATA[<p>Typedown 是一款专为Markdown 编辑器。无预览窗口、无各种标记、所见即所得，支持 LaTeX 公式编辑、流程图绘制和支持多种语言代码高亮。借助 WinUI 框架，它为用户提供了与操作系统完美匹配的界面和高效的编辑体验。</p>
+<p>下载方式：https://apps.microsoft.com/detail/9p8tcw4h2hb4?hl=zh-cn&amp;gl=CN</p>
+]]></content>
+    </entry>
 </feed>
