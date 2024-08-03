@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://smdzhm.github.io</id>
-    <title>Gridea</title>
-    <updated>2024-08-03T02:39:31.600Z</updated>
+    <title>MerryzzChannel</title>
+    <updated>2024-08-03T02:40:00.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://smdzhm.github.io"/>
     <link rel="self" href="https://smdzhm.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
     <logo>https://smdzhm.github.io/images/avatar.png</logo>
     <icon>https://smdzhm.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2024, Gridea</rights>
+    <rights>All rights reserved 2024, MerryzzChannel</rights>
 </feed>
