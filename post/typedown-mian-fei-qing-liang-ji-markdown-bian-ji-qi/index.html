@@ -1,0 +1,170 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Typedown – 免费轻量级 Markdown 编辑器 | RainbowSky_</title>
+<link rel="shortcut icon" href="https://smdzhm.github.io/favicon.ico?v=1731758618654">
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
+<link rel="stylesheet" href="https://smdzhm.github.io/styles/main.css">
+<link rel="alternate" type="application/atom+xml" title="Typedown – 免费轻量级 Markdown 编辑器 | RainbowSky_ - Atom Feed" href="https://smdzhm.github.io/atom.xml">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
+
+
+
+    <meta name="description" content="Typedown 是一款专为Markdown 编辑器。无预览窗口、无各种标记、所见即所得，支持 LaTeX 公式编辑、流程图绘制和支持多种语言代码高亮。借助 WinUI 框架，它为用户提供了与操作系统完美匹配的界面和高效的编辑体验。
+下载方..." />
+    <meta name="keywords" content="" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+    <script src="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.5.1/build/highlight.min.js"></script>
+  </head>
+  <body>
+    <div class="main">
+      <div class="main-content">
+        <div class="site-header">
+  <a href="https://smdzhm.github.io">
+  <img class="avatar" src="https://smdzhm.github.io/images/avatar.png?v=1731758618654" alt="">
+  </a>
+  <h1 class="site-title">
+    RainbowSky_
+  </h1>
+  <p class="site-description">
+    RainbowSky的博客
+  </p>
+  <div class="menu-container">
+    
+      
+        <a href="/" class="menu">
+          首页
+        </a>
+      
+    
+      
+        <a href="/archives" class="menu">
+          归档
+        </a>
+      
+    
+      
+        <a href="/tags" class="menu">
+          标签
+        </a>
+      
+    
+      
+        <a href="https://smdzhm.github.io/post/sha-bi-si-ma-mei-mu-hao-ying-shuo" class="menu">
+          傻逼司马眉目郝英烁
+        </a>
+      
+    
+      
+        <a href="/post/about" class="menu">
+          关于
+        </a>
+      
+    
+  </div>
+  <div class="social-container">
+    
+      
+        <a href="https://github.com/smdzhm" target="_blank">
+          <i class="ri-github-line"></i>
+        </a>
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </div>
+</div>
+
+        <div class="post-detail">
+          <article class="post">
+            <h2 class="post-title">
+              Typedown – 免费轻量级 Markdown 编辑器
+            </h2>
+            <div class="post-info">
+              <span>
+                2024-10-02
+              </span>
+              <span>
+                1 min read
+              </span>
+              
+            </div>
+            
+              <img class="post-feature-image" src="https://smdzhm.github.io/post-images/typedown-mian-fei-qing-liang-ji-markdown-bian-ji-qi.png" alt="">
+            
+            <div class="post-content-wrapper">
+              <div class="post-content" v-pre>
+                <p>Typedown 是一款专为Markdown 编辑器。无预览窗口、无各种标记、所见即所得，支持 LaTeX 公式编辑、流程图绘制和支持多种语言代码高亮。借助 WinUI 框架，它为用户提供了与操作系统完美匹配的界面和高效的编辑体验。</p>
+<p>下载方式：https://apps.microsoft.com/detail/9p8tcw4h2hb4?hl=zh-cn&amp;gl=CN</p>
+
+              </div>
+              <div class="toc-container">
+                
+              </div>
+            </div>
+          </article>
+        </div>
+
+        
+
+        
+
+        <div class="site-footer">
+  友情链接 <a href="http://www.kinghub.top" target="_blank">工具分享站</a>
+  <a class="rss" href="https://smdzhm.github.io/atom.xml" target="_blank">
+    <i class="ri-rss-line"></i> RSS
+  </a>
+</div>
+
+      </div>
+    </div>
+
+    <script>
+      hljs.initHighlightingOnLoad()
+
+      let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
+
+      // This should probably be throttled.
+      // Especially because it triggers during smooth scrolling.
+      // https://lodash.com/docs/4.17.10#throttle
+      // You could do like...
+      // window.addEventListener("scroll", () => {
+      //    _.throttle(doThatStuff, 100);
+      // });
+      // Only not doing it here to keep this Pen dependency-free.
+
+      window.addEventListener("scroll", event => {
+        let fromTop = window.scrollY;
+
+        mainNavLinks.forEach((link, index) => {
+          let section = document.getElementById(decodeURI(link.hash).substring(1));
+          let nextSection = null
+          if (mainNavLinks[index + 1]) {
+            nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
+          }
+          if (section.offsetTop <= fromTop) {
+            if (nextSection) {
+              if (nextSection.offsetTop > fromTop) {
+                link.classList.add("current");
+              } else {
+                link.classList.remove("current");    
+              }
+            } else {
+              link.classList.add("current");
+            }
+          } else {
+            link.classList.remove("current");
+          }
+        });
+      });
+
+    </script>
+  </body>
+</html>
