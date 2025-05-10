@@ -18,12 +18,6 @@ export default defineSiteConfig({
   description: 'RainbowSkyのblog.',
   social: [
     {
-      name: 'QQ',
-      link: 'https://i.postimg.cc/mDdNDtxv/qrcode-1739081829874.jpg',
-      icon: 'i-ri-qq-line',
-      color: '#12B7F5',
-    },
-    {
       name: 'GitHub',
       link: 'https://github.com/smdzhm',
       icon: 'i-ri-github-line',
