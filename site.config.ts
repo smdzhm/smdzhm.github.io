@@ -63,7 +63,7 @@ export default defineSiteConfig({
     {
       name: 'Steam',
       link: 'https://steamcommunity.com/id/RainbowSky_/',
-      icon: 'i-mdi-steam',
+      icon: 'i-streamline-stream-solid',
       color: '#474747ff',
     },
     {
