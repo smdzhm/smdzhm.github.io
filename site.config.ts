@@ -4,6 +4,7 @@ export default defineSiteConfig({
   url: 'https://smdzhm.github.io',
   lang: 'zh-CN',
   title: 'RainbowSky的博客|RainbowSky\'s blog',
+  subtitle: '一日一日を无駄なく、强く生きること',
   author: {
     name: 'RainbowSky',
     avatar: 'https://i.postimg.cc/668hjh67/20250111162708.png',
@@ -14,7 +15,7 @@ export default defineSiteConfig({
   }},
   mode: 'auto',
   lastUpdated: true,
-  favicon: 'https://i.postimg.cc/668hjh67/20250111162708.png',
+  favicon: 'https://i.postimg.cc/N0mCXgKx/2025-07-30-122426.png',
   description: '终身笔耕，博客可否不朽？',
   social: [
     {
@@ -58,6 +59,12 @@ export default defineSiteConfig({
       link: 'https://discord.gg/97RPrfs5U6',
       icon: 'i-ri-discord-line',
       color: '#7B68EE',
+    },
+    {
+      name: 'Steam',
+      link: 'https://steamcommunity.com/id/RainbowSky_/',
+      icon: 'i-mdi-steam',
+      color: '#474747ff',
     },
     {
       name: 'E-Mail',

@@ -1,19 +1,7 @@
 ---
-title: About my bloog
+title: 恭喜你发现了彩蛋
 ---
 
-### 1.友联申请
+[点击查看](https://www.bilibili.com/video/BV1GJ411x7h7/?share_source=copy_web&vd_source=daf223da03e46b23a0784859aff40a73)
 
-申请友链格式如下：
 
-```html
-url: 你的网址
-avatar: 你的头像
-name: 你的名字
-blog: xxx's blog #与name项可以只写一个 
-desc: 描述你的站点
-color: "#6058d9" # 想要使用的边框颜色
-email: # 非选填
-```
-
-# 
