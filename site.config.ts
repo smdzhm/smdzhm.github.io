@@ -3,7 +3,7 @@ import { defineSiteConfig } from 'valaxy'
 export default defineSiteConfig({
   url: 'https://smdzhm.github.io',
   lang: 'zh-CN',
-  title: 'RainbowSky的博客|RainbowSky\'s blog',
+  title: 'MizzleLume的博客|MizzleLume\'s blog',
   subtitle: '一日一日を无駄なく、强く生きること',
   author: {
     name: 'MizzleLume',
