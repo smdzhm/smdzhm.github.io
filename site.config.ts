@@ -6,7 +6,7 @@ export default defineSiteConfig({
   title: 'RainbowSky的博客|RainbowSky\'s blog',
   subtitle: '一日一日を无駄なく、强く生きること',
   author: {
-    name: 'RainbowSky',
+    name: 'MizzleLume',
     avatar: 'https://i.postimg.cc/668hjh67/20250111162708.png',
     status:
     {
@@ -15,7 +15,7 @@ export default defineSiteConfig({
   }},
   mode: 'auto',
   lastUpdated: true,
-  favicon: 'https://i.postimg.cc/N0mCXgKx/2025-07-30-122426.png',
+  favicon: 'https://i.postimg.cc/65xP2FCQ/20250111162708.jpg',
   description: '终身笔耕，博客可否不朽？',
   social: [
     {
@@ -43,12 +43,6 @@ export default defineSiteConfig({
       color: '#FF8EB3',
     },
     {
-      name: 'Twitter',
-      link: 'https://twitter.com/smdzhm',
-      icon: 'i-ri-twitter-x-line',
-      color: 'black',
-    },
-    {
       name: 'Telegram Channel',
       link: 'https://t.me/rainbowsky1145',
       icon: 'i-ri-telegram-2-line',
@@ -56,7 +50,7 @@ export default defineSiteConfig({
     },
     {
       name: 'Discord',
-      link: 'https://discord.gg/97RPrfs5U6',
+      link: 'https://discord.gg/tewSWWY9J7',
       icon: 'i-ri-discord-line',
       color: '#7B68EE',
     },
@@ -68,7 +62,7 @@ export default defineSiteConfig({
     },
     {
       name: 'E-Mail',
-      link: 'mailto:me@rainbowsky1145.ggff.net',
+      link: 'mailto:scottdporter0@gmail.com',
       icon: 'i-ri-mail-ai-line',
       color: '#8E71C1',
     },
@@ -78,7 +72,6 @@ export default defineSiteConfig({
     enable: true,
     type: 'fuse',
   },
-  
   sponsor: {
     enable: true,
     title: '我很可爱，请给我钱！',

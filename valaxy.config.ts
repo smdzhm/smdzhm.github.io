@@ -1,6 +1,8 @@
 import type { UserThemeConfig } from 'valaxy-theme-yun'
 import { defineValaxyConfig } from 'valaxy'
 import { addonWaline } from 'valaxy-addon-waline'
+import { addonFace } from 'valaxy-addon-face'
+import { addonLightGallery } from 'valaxy-addon-lightgallery'
 // add icons what you will need
 const safelist = [
   'i-ri-home-line',
@@ -10,12 +12,18 @@ const safelist = [
  * User Config
  */
 export default defineValaxyConfig<UserThemeConfig>({
-    siteConfig: {
+  siteConfig: {
     comment: {
       enable: true
     },
   },
   addons: [
+    addonFace({
+      defaultSuffix: 'webp'
+    }),
+    
+    addonLightGallery(),
+    
     addonWaline({
       serverURL: 'https://1145.vercel.app/',
     }),
@@ -74,5 +82,5 @@ export default defineValaxyConfig<UserThemeConfig>({
     },
 },
    unocss: { safelist },
-
+ 
 })
