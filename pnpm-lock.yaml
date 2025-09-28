@@ -24,6 +24,12 @@ importers:
         specifier: 0.25.11
         version: 0.25.11(vue@3.5.18(typescript@5.8.3))
     devDependencies:
+      '@iconify-json/flowbite':
+        specifier: ^1.2.7
+        version: 1.2.7
+      '@iconify-json/mdi-light':
+        specifier: ^1.2.2
+        version: 1.2.2
       '@iconify-json/streamline':
         specifier: ^1.2.5
         version: 1.2.5
@@ -579,8 +585,14 @@ packages:
   '@iconify-json/ant-design@1.2.5':
     resolution: {integrity: sha512-SYxhrx1AFq2MBcXk77AERYz2mPhLQes1F0vtvG64+dJZWyge9studXo7MiR8PPeLjRjZdWRrReRbxiwdRMf70Q==}
 
+  '@iconify-json/flowbite@1.2.7':
+    resolution: {integrity: sha512-YmjHMSe6zBWI6XMZ35OGxgkX9k0lMiKmJIYOOymhc8rEiVbtZnnujJnGrfTider1JOoArQcCJzhHH6hUoXgiYA==}
+
   '@iconify-json/logos@1.2.5':
     resolution: {integrity: sha512-WR8+9kFwx1tIR+hWpKYC+rpVkAuzHyaVxZRfhGGIjqCfgbodK7rS4+OZhktdKtZKKcdmhpLZKvlmRm4IA4dKRg==}
+
+  '@iconify-json/mdi-light@1.2.2':
+    resolution: {integrity: sha512-86UV9uyNve8zRFWiPrOrrDp9GDzsZM7plYV/on4VjgLLqXlyriuy541eHZB7LIOzTUyIPVli7QiUpBbTtBhsFw==}
 
   '@iconify-json/ri@1.2.5':
     resolution: {integrity: sha512-kWGimOXMZrlYusjBKKXYOWcKhbOHusFsmrmRGmjS7rH0BpML5A9/fy8KHZqFOwZfC4M6amObQYbh8BqO5cMC3w==}
@@ -4373,7 +4385,15 @@ snapshots:
     dependencies:
       '@iconify/types': 2.0.0
 
+  '@iconify-json/flowbite@1.2.7':
+    dependencies:
+      '@iconify/types': 2.0.0
+
   '@iconify-json/logos@1.2.5':
+    dependencies:
+      '@iconify/types': 2.0.0
+
+  '@iconify-json/mdi-light@1.2.2':
     dependencies:
       '@iconify/types': 2.0.0
 

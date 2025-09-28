@@ -72,7 +72,7 @@ export default defineValaxyConfig<UserThemeConfig>({
         name: 'i-ri-heart-line',
         animated: true,
         color: '#546cd6ff',
-        url: 'https://rainbowsky.ggff.net',	//图标链接
+        url: 'https://mizzlelume.qzz.io',	//图标链接
         title: '回到首页'		//鼠标悬停注释
       },
       beian: {

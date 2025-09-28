@@ -61,6 +61,12 @@ export default defineSiteConfig({
       color: '#474747ff',
     },
     {
+      name: 'Alist',
+      link: 'https://flies.mizzlelume.qzz.io/',
+      icon: 'i-flowbite-folder-open-outline',
+      color: '#000000ff',
+    },
+    {
       name: 'E-Mail',
       link: 'mailto:scottdporter0@gmail.com',
       icon: 'i-ri-mail-ai-line',
