@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>MizzleLume的博客|MizzleLume's blog</title>
+        <link>https://smdzhm.github.io/</link>
+        <description>终身笔耕，博客可否不朽？</description>
+        <lastBuildDate>Sat, 29 Nov 2025 03:08:17 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>MizzleLume的博客|MizzleLume's blog</title>
+            <url>https://i.postimg.cc/668hjh67/20250111162708.png</url>
+            <link>https://smdzhm.github.io/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2025 © MizzleLume</copyright>
+        <atom:link href="https://smdzhm.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[如何刷入手机GSI固件]]></title>
+            <link>https://smdzhm.github.io/posts/如何刷入手机GSI固件</link>
+            <guid isPermaLink="false">https://smdzhm.github.io/posts/如何刷入手机GSI固件</guid>
+            <pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>一、什么是GSI？</h2>
+<p>通用系统映像（Generic System Image）是谷歌为支持Project Treble的设备提供的标准化系统映像，可以在不同厂商的设备上运行，让用户无需等待厂商</p>
+<br/><p>访问 <a href="https://smdzhm.github.io/posts/如何刷入手机GSI固件" target="_blank">https://smdzhm.github.io/posts/如何刷入手机GSI固件</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (MizzleLume)</author>
+        </item>
+        <item>
+            <title><![CDATA[手机本地部署 DeepSeek 模型指南：离线运行你的“AI大脑”！]]></title>
+            <link>https://smdzhm.github.io/posts/手机本地部署 DeepSeek 模型指南：离线运行你的“AI大脑”！</link>
+            <guid isPermaLink="false">https://smdzhm.github.io/posts/手机本地部署 DeepSeek 模型指南：离线运行你的“AI大脑”！</guid>
+            <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<blockquote>
+<p>无需高端电脑，无需联网限制，只需一台手机，就能运行国产最强开源大模型</p>
+</blockquote>
+<p>你是否曾因 DeepSeek 官方服务不稳定、响应慢而烦恼？是否担心敏感对话内容被上传到云端？现在，一切都可解决——通过将</p>
+<br/><p>访问 <a href="https://smdzhm.github.io/posts/手机本地部署 DeepSeek 模型指南：离线运行你的“AI大脑”！" target="_blank">https://smdzhm.github.io/posts/手机本地部署 DeepSeek 模型指南：离线运行你的“AI大脑”！</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (MizzleLume)</author>
+        </item>
+        <item>
+            <title><![CDATA[Every thing一款免费、轻量级的本地文件搜索工具]]></title>
+            <link>https://smdzhm.github.io/posts/Every thing一款免费、轻量级的本地文件搜索工具</link>
+            <guid isPermaLink="false">https://smdzhm.github.io/posts/Every thing一款免费、轻量级的本地文件搜索工具</guid>
+            <pubDate>Sun, 13 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p><strong>Everything</strong> 是由 <strong>voidtools</strong> 开发的一款免费、轻量级的本地文件搜索工具，专注于快速、高效地搜索 Windows 系统中的文件和文件夹。其最大特点是利用 **NTFS</p>
+<br/><p>访问 <a href="https://smdzhm.github.io/posts/Every thing一款免费、轻量级的本地文件搜索工具" target="_blank">https://smdzhm.github.io/posts/Every thing一款免费、轻量级的本地文件搜索工具</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (MizzleLume)</author>
+        </item>
+        <item>
+            <title><![CDATA[LibreOffice一款功能强大且完全免费的开源办公软件套件]]></title>
+            <link>https://smdzhm.github.io/posts/LibreOffice一款功能强大且完全免费的开源办公软件套件</link>
+            <guid isPermaLink="false">https://smdzhm.github.io/posts/LibreOffice一款功能强大且完全免费的开源办公软件套件</guid>
+            <pubDate>Sun, 16 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p><strong>LibreOffice</strong>，这是一款功能强大且完全免费的开源办公软件套件，适用于文档处理、表格计算、演示文稿制作等多种办公场景。以下是我喜欢它的原因：</p>
+<hr>
+<h3>📌 **Libre</h3>
+<br/><p>访问 <a href="https://smdzhm.github.io/posts/LibreOffice一款功能强大且完全免费的开源办公软件套件" target="_blank">https://smdzhm.github.io/posts/LibreOffice一款功能强大且完全免费的开源办公软件套件</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (MizzleLume)</author>
+        </item>
+        <item>
+            <title><![CDATA[VS Code微软开发的一款免费、开源、跨平台的代码编辑器]]></title>
+            <link>https://smdzhm.github.io/posts/VS Code微软开发的一款免费、开源、跨平台的代码编辑器</link>
+            <guid isPermaLink="false">https://smdzhm.github.io/posts/VS Code微软开发的一款免费、开源、跨平台的代码编辑器</guid>
+            <pubDate>Sat, 15 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p><strong>Visual Studio Code（VS Code）</strong> 是微软开发的一款免费、开源、跨平台的代码编辑器，凭借其轻量、高扩展性和强大的功能，成为开发者社区中最受欢迎的工具之一。以下是我推荐它的</p>
+<br/><p>访问 <a href="https://smdzhm.github.io/posts/VS Code微软开发的一款免费、开源、跨平台的代码编辑器" target="_blank">https://smdzhm.github.io/posts/VS Code微软开发的一款免费、开源、跨平台的代码编辑器</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (MizzleLume)</author>
+        </item>
+        <item>
+            <title><![CDATA[Motrix 是一款开源、跨平台的下载工具]]></title>
+            <link>https://smdzhm.github.io/posts/Motrix 是一款开源、跨平台的下载工具</link>
+            <guid isPermaLink="false">https://smdzhm.github.io/posts/Motrix 是一款开源、跨平台的下载工具</guid>
+            <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h3>Motrix 简介</h3>
+<p><strong>Motrix</strong> 是一款开源、跨平台的下载工具，支持多种协议（HTTP、FTP、BT、磁力链接等）。它以简洁的界面、无广告和隐私保护为特色，适合需要轻量级且注重安全</p>
+<br/><p>访问 <a href="https://smdzhm.github.io/posts/Motrix 是一款开源、跨平台的下载工具" target="_blank">https://smdzhm.github.io/posts/Motrix 是一款开源、跨平台的下载工具</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (MizzleLume)</author>
+        </item>
+        <item>
+            <title><![CDATA[流行的Markdown编辑器推荐]]></title>
+            <link>https://smdzhm.github.io/posts/流行的Markdown编辑器推荐</link>
+            <guid isPermaLink="false">https://smdzhm.github.io/posts/流行的Markdown编辑器推荐</guid>
+            <pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>以下是几款流行的Markdown编辑器推荐，并附上理由和对比：</p>
+<h3>1. <strong>Typora</strong></h3>
+<ul>
+<li><strong>推荐理由</strong>:
+<ul>
+<li><strong>所见即所得</strong>：Typora 提供实时预览功能，编辑时</li>
+</ul>
+</li>
+</ul>
+<br/><p>访问 <a href="https://smdzhm.github.io/posts/流行的Markdown编辑器推荐" target="_blank">https://smdzhm.github.io/posts/流行的Markdown编辑器推荐</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (MizzleLume)</author>
+        </item>
+        <item>
+            <title><![CDATA[Hexo vs Valaxy：静态博客框架的现代之争]]></title>
+            <link>https://smdzhm.github.io/posts/Hexo vs Valaxy：静态博客框架的现代之争</link>
+            <guid isPermaLink="false">https://smdzhm.github.io/posts/Hexo vs Valaxy：静态博客框架的现代之争</guid>
+            <pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<hr>
+<p>在静态博客生成器的世界里，Hexo 以其成熟稳定的特性长期占据主流地位，而 Valaxy 作为新兴框架凭借前沿技术栈和轻量化设计逐渐崭露头角。本文将从多个维度对比两者的差异，帮助开发者选择</p>
+<br/><p>访问 <a href="https://smdzhm.github.io/posts/Hexo vs Valaxy：静态博客框架的现代之争" target="_blank">https://smdzhm.github.io/posts/Hexo vs Valaxy：静态博客框架的现代之争</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (MizzleLume)</author>
+        </item>
+        <item>
+            <title><![CDATA[VLC Media Player一款开源的多媒体播放器]]></title>
+            <link>https://smdzhm.github.io/posts/VLC Media Player一款开源的多媒体播放器</link>
+            <guid isPermaLink="false">https://smdzhm.github.io/posts/VLC Media Player一款开源的多媒体播放器</guid>
+            <pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p><strong>1.功能强大且免费开源</strong><br>
+VLC Media Player 是一款开源的多媒体播放器，支持几乎所有的音频和视频格式（如 MP4、AVI、MKV、FLV、MP3 等），无需额外安装编解码器。它完</p>
+<br/><p>访问 <a href="https://smdzhm.github.io/posts/VLC Media Player一款开源的多媒体播放器" target="_blank">https://smdzhm.github.io/posts/VLC Media Player一款开源的多媒体播放器</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (MizzleLume)</author>
+        </item>
+        <item>
+            <title><![CDATA[Blender是一款免费开源、功能全面的 3D 创作套件]]></title>
+            <link>https://smdzhm.github.io/posts/Blender是一款免费开源、功能全面的 3D 创作套件</link>
+            <guid isPermaLink="false">https://smdzhm.github.io/posts/Blender是一款免费开源、功能全面的 3D 创作套件</guid>
+            <pubDate>Sun, 09 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p><strong>Blender</strong> 是一款免费开源、功能全面的 <strong>3D 创作套件</strong>，涵盖建模、动画、渲染、视频剪辑、游戏开发等全流程，被广泛应用于影视、游戏、工业设计等领域。以下是它的详细介绍：</p>
+<hr>
+<br/><p>访问 <a href="https://smdzhm.github.io/posts/Blender是一款免费开源、功能全面的 3D 创作套件" target="_blank">https://smdzhm.github.io/posts/Blender是一款免费开源、功能全面的 3D 创作套件</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (MizzleLume)</author>
+        </item>
+    </channel>
+</rss>
